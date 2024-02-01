@@ -119,18 +119,4 @@ wait
 echo "Todas las tareas han terminado."
 ```
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 [004__bashscript](004__bashscript.md)
