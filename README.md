@@ -24,8 +24,9 @@ Bienvenido a la guía de Bash Scripting. Este repositorio está diseñado para a
 
 Simplemente haz clic en los enlaces para acceder a cada sección de la guía. Asegúrate de revisar los archivos en orden para una progresión lógica.
 
-<!-- ## Contribuciones
+### `Python3`
+```bash
+# dependencias
 
-Siéntete libre de contribuir mediante solicitudes de extracción. Si encuentras errores o tienes sugerencias, ¡haznos saber abriendo un problema!
-
-Esperamos que encuentres útil esta guía de Bash Scripting. ¡Feliz scripting! -->
+sudo apt install python3 -y
+```
