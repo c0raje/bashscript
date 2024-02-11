@@ -1,0 +1,1 @@
+mensaje1 = "\n\n\n001__bashscript\n\n"

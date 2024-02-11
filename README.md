@@ -10,11 +10,11 @@ Este repositorio contiene notas y guias de Bash scripting para facilitar el apre
 4. [Funciones en Bash](004__bashscript.md)
 5. [Trucos y Mejores Prácticas en Bash](005__bashscript.md) -->
 
-1. [001__bashscript](001__bashscript.md)
-1. [002__bashscript](002__bashscript.md)
-1. [003__bashscript](003__bashscript.md)
-1. [004__bashscript](004__bashscript.md)
-1. [005__bashscript](005__bashscript.md)
+1. [001__bashscript](/markdown/001__bashscript.md)
+1. [002__bashscript](/markdown/002__bashscript.md)
+1. [003__bashscript](/markdown/003__bashscript.md)
+1. [004__bashscript](/markdown/004__bashscript.md)
+1. [005__bashscript](/markdown/005__bashscript.md)
 
 ## Descripción
 
@@ -23,10 +23,3 @@ Bienvenido a la guía de Bash Scripting. Este repositorio está diseñado para a
 ## Cómo Usar
 
 Simplemente haz clic en los enlaces para acceder a cada sección de la guía. Asegúrate de revisar los archivos en orden para una progresión lógica.
-
-### `Python3`
-```bash
-# dependencias
-
-sudo apt install python3 -y
-```
